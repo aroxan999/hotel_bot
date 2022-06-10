@@ -1,0 +1,2811 @@
+{
+    "header": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+    "query": {
+        "destination": {
+            "id": "1439028",
+            "value": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+            "resolvedLocation": "GEO_LOCATION:3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA|34.06089401245117|-118.30043029785156:GEOCODE:UNKNOWN"
+        }
+    },
+    "searchResults": {
+        "totalCount": 631,
+        "results": [
+            {
+                "id": 1134849952,
+                "name": "Villa Medi",
+                "starRating": 4.0,
+                "urls": {},
+                "address": {
+                    "locality": "Beverly Hills",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "7.0 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "9.7 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$6,281",
+                        "exactCurrent": 6281.0,
+                        "info": "nightly price per unit",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $65,693 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "HC"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {},
+                "coordinate": {
+                    "lat": 34.090875,
+                    "lon": -118.417544
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 35432811,
+                "vrBadge": "Villa",
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/36000000/35440000/35432900/35432811/76a6ac07_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 1127624736,
+                "name": "Villa Amanda",
+                "starRating": 3.5,
+                "urls": {},
+                "address": {
+                    "locality": "Beverly Hills",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "8.4 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "11 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$6,000",
+                        "exactCurrent": 6000.0,
+                        "info": "nightly price per unit",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $62,410 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "HC"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "increaseNumberOfReviewsRequired",
+                "coordinate": {
+                    "lat": 34.119797,
+                    "lon": -118.429659
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 35207023,
+                "vrBadge": "Villa",
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/36000000/35210000/35207100/35207023/d5a6e46f_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 1127625248,
+                "name": "Villa Hillside",
+                "starRating": 4.0,
+                "urls": {},
+                "address": {
+                    "locality": "Beverly Hills",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "5.8 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "8.5 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$3,381",
+                        "exactCurrent": 3381.0,
+                        "info": "nightly price per unit",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $35,064 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "HC"
+                },
+                "neighbourhood": "The Flats",
+                "deals": {},
+                "messaging": {},
+                "badging": {},
+                "coordinate": {
+                    "lat": 34.07379,
+                    "lon": -118.400565
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 35207039,
+                "vrBadge": "Villa",
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/36000000/35210000/35207100/35207039/bed10e9a_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 1189046304,
+                "name": "The West Hollywood EDITION",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "9040 W. Sunset Blvd.",
+                    "extendedAddress": "",
+                    "locality": "West Hollywood",
+                    "postalCode": "90069",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.4,
+                    "rating": "4.4",
+                    "total": 100,
+                    "scale": 5,
+                    "badge": "fabulous",
+                    "badgeText": "Fabulous"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "5.5 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "8.2 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$2,975",
+                        "exactCurrent": 2974.99,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $31,280 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Norma Triangle",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "2 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|TESCO",
+                "coordinate": {
+                    "lat": 34.090371,
+                    "lon": -118.389135
+                },
+                "roomsLeft": 2,
+                "providerType": "LOCAL",
+                "supplierHotelId": 37126447,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/38000000/37130000/37126500/37126447/8756e512_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 1134852032,
+                "name": "Villa High Views",
+                "starRating": 3.5,
+                "urls": {},
+                "address": {
+                    "locality": "Beverly Hills",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "8.0 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "11 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$2,354",
+                        "exactCurrent": 2354.0,
+                        "info": "nightly price per unit",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $25,202 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "HC"
+                },
+                "neighbourhood": "Beverly Glen",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {},
+                "coordinate": {
+                    "lat": 34.093378,
+                    "lon": -118.433978
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 35432876,
+                "vrBadge": "Cottage",
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/36000000/35440000/35432900/35432876/e4604e22_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 1173232928,
+                "name": "Villa Spectacular",
+                "starRating": 3.5,
+                "urls": {},
+                "address": {
+                    "locality": "West Hollywood",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "5.6 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "8.3 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$1,993",
+                        "exactCurrent": 1993.0,
+                        "info": "nightly price per unit",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $21,348 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "HC"
+                },
+                "neighbourhood": "Hollywood Hills West",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {},
+                "coordinate": {
+                    "lat": 34.093544,
+                    "lon": -118.389641
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 36632279,
+                "vrBadge": "Home",
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/37000000/36640000/36632300/36632279/9550c0b8_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 1173232704,
+                "name": "Villa Karlie",
+                "starRating": 3.5,
+                "urls": {},
+                "address": {
+                    "locality": "Beverly Hills",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "8.1 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "11 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$1,772",
+                        "exactCurrent": 1771.67,
+                        "info": "nightly price per unit",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $18,577 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "HC"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "newhotel",
+                "coordinate": {
+                    "lat": 34.132645,
+                    "lon": -118.412173
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 36632272,
+                "vrBadge": "Villa",
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/37000000/36640000/36632300/36632272/3b254847_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 124056,
+                "name": "The Beverly Hills Hotel",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "9641 Sunset Blvd",
+                    "extendedAddress": "",
+                    "locality": "Beverly Hills",
+                    "postalCode": "90210",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.8,
+                    "rating": "4.8",
+                    "total": 640,
+                    "scale": 5,
+                    "badge": "exceptional",
+                    "badgeText": "Exceptional"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "6.6 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "9.3 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$1,395",
+                        "exactCurrent": 1395.0,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $15,202 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "The Flats",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "4 left on our app"
+                },
+                "badging": {
+                    "hotelBadge": {
+                        "type": "vipBasic",
+                        "label": "VIP"
+                    }
+                },
+                "pimmsAttributes": "DoubleStamps|D13|HRW|TESCO",
+                "coordinate": {
+                    "lat": 34.081585,
+                    "lon": -118.412125
+                },
+                "roomsLeft": 4,
+                "providerType": "LOCAL",
+                "supplierHotelId": 12057,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/20000/12100/12057/5a878f2d_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 2067468672,
+                "name": "Fairmont Century Plaza Gold Experience",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "2025 Avenue Of The Stars",
+                    "extendedAddress": "",
+                    "locality": "Los Angeles",
+                    "postalCode": "90067",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 5.0,
+                    "rating": "5.0",
+                    "total": 2,
+                    "scale": 5,
+                    "badge": "exceptional",
+                    "badgeText": "Exceptional"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "6.6 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "9.2 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$1,295",
+                        "exactCurrent": 1295.0,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $13,543 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Century City",
+                "deals": {},
+                "messaging": {},
+                "badging": {},
+                "pimmsAttributes": "newhotel|HRW",
+                "coordinate": {
+                    "lat": 34.057487,
+                    "lon": -118.415893
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 64577146,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/65000000/64580000/64577200/64577146/05ad01c9_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 332996,
+                "name": "The Ritz-Carlton, Los Angeles",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "900 W. Olympic Blvd",
+                    "extendedAddress": "",
+                    "locality": "Los Angeles",
+                    "postalCode": "90015",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.5,
+                    "rating": "4.5",
+                    "total": 448,
+                    "scale": 5,
+                    "badge": "superb",
+                    "badgeText": "Superb"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "2.2 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "0.8 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$1,235",
+                        "exactCurrent": 1234.56,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $13,172 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Downtown Los Angeles",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|TESCO",
+                "coordinate": {
+                    "lat": 34.045689,
+                    "lon": -118.26704
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 3443706,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/4000000/3450000/3443800/3443706/4c48de7d_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 112168,
+                "name": "Hotel Bel-Air - Dorchester Collection",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "701 Stone Canyon Road",
+                    "extendedAddress": "",
+                    "locality": "Los Angeles",
+                    "postalCode": "90077",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.8,
+                    "rating": "4.8",
+                    "total": 323,
+                    "scale": 5,
+                    "badge": "exceptional",
+                    "badgeText": "Exceptional"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "8.5 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "11 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$1,156",
+                        "exactCurrent": 1156.0,
+                        "old": "$1,445",
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $12,597 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Bel Air",
+                "deals": {
+                    "secretPrice": {
+                        "dealText": "Save more with Secret Prices"
+                    },
+                    "priceReasoning": "DRR-445"
+                },
+                "messaging": {},
+                "badging": {
+                    "hotelBadge": {
+                        "type": "vipBasic",
+                        "label": "VIP"
+                    }
+                },
+                "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                "coordinate": {
+                    "lat": 34.086651,
+                    "lon": -118.445552
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 34504,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/40000/34600/34504/2b548f20_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 653535,
+                "name": "Waldorf Astoria Beverly Hills",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "9850 Wilshire Boulevard",
+                    "extendedAddress": "",
+                    "locality": "Beverly Hills",
+                    "postalCode": "90210",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.7,
+                    "rating": "4.7",
+                    "total": 198,
+                    "scale": 5,
+                    "badge": "exceptional",
+                    "badgeText": "Exceptional"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "6.4 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "9.0 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$1,145",
+                        "exactCurrent": 1145.0,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $12,449 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {},
+                "messaging": {},
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|TESCO",
+                "coordinate": {
+                    "lat": 34.066934,
+                    "lon": -118.41154
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 16272134,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/17000000/16280000/16272200/16272134/1f4bc024_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 269818,
+                "name": "The Maybourne Beverly Hills",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "225 North Canon Drive",
+                    "extendedAddress": "",
+                    "locality": "Beverly Hills",
+                    "postalCode": "90210",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.9,
+                    "rating": "4.9",
+                    "total": 58,
+                    "scale": 5,
+                    "badge": "exceptional",
+                    "badgeText": "Exceptional"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "5.6 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "8.3 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$1,045",
+                        "exactCurrent": 1045.0,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $11,467 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "2 left on our app"
+                },
+                "badging": {
+                    "hotelBadge": {
+                        "type": "vipBasic",
+                        "label": "VIP"
+                    }
+                },
+                "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                "coordinate": {
+                    "lat": 34.068119,
+                    "lon": -118.398449
+                },
+                "roomsLeft": 2,
+                "providerType": "LOCAL",
+                "supplierHotelId": 2025453,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/3000000/2030000/2025500/2025453/e0e802ed_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 141414,
+                "name": "The Peninsula Beverly Hills",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "9882 South Santa Monica Blvd",
+                    "extendedAddress": "",
+                    "locality": "Beverly Hills",
+                    "postalCode": "90212",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.8,
+                    "rating": "4.8",
+                    "total": 403,
+                    "scale": 5,
+                    "badge": "exceptional",
+                    "badgeText": "Exceptional"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "6.3 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "9.0 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$995",
+                        "exactCurrent": 995.0,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $10,413 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "EC"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {},
+                "messaging": {},
+                "badging": {
+                    "hotelBadge": {
+                        "type": "vipBasic",
+                        "label": "VIP"
+                    }
+                },
+                "pimmsAttributes": "DoubleStamps|D13|priceRangeAU|TESCO",
+                "coordinate": {
+                    "lat": 34.06595,
+                    "lon": -118.411079
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 17768,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/20000/17800/17768/25dbbe23_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 115203,
+                "name": "Four Seasons Los Angeles at Beverly Hills",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "300 S Doheny Dr",
+                    "extendedAddress": "",
+                    "locality": "Los Angeles",
+                    "postalCode": "90048",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.7,
+                    "rating": "4.7",
+                    "total": 607,
+                    "scale": 5,
+                    "badge": "exceptional",
+                    "badgeText": "Exceptional"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "5.2 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "7.9 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$984",
+                        "exactCurrent": 984.38,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $10,294 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Beverly Grove",
+                "deals": {},
+                "messaging": {},
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                "coordinate": {
+                    "lat": 34.072892,
+                    "lon": -118.389692
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 300,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/10000/300/300/93ae2bc4_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 487450,
+                "name": "Los Angeles Backpackers Paradise Hostel",
+                "starRating": 2.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "4200 West Century Blvd.",
+                    "extendedAddress": "",
+                    "locality": "Inglewood",
+                    "postalCode": "90304",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 2.4,
+                    "rating": "2.4",
+                    "total": 224,
+                    "scale": 5
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "8.5 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "9.1 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$945",
+                        "exactCurrent": 945.04,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $8,505 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "EC"
+                },
+                "neighbourhood": "Lennox",
+                "deals": {},
+                "messaging": {},
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                "coordinate": {
+                    "lat": 33.94507,
+                    "lon": -118.34883
+                },
+                "providerType": "MULTISOURCE",
+                "supplierHotelId": 9744914,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/10000000/9750000/9745000/9744914/00e2dc98_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 141440,
+                "name": "L'Ermitage Beverly Hills",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "9291 Burton Way",
+                    "extendedAddress": "",
+                    "locality": "Beverly Hills",
+                    "postalCode": "90210",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.7,
+                    "rating": "4.7",
+                    "total": 743,
+                    "scale": 5,
+                    "badge": "exceptional",
+                    "badgeText": "Exceptional"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "5.5 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "8.2 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$833",
+                        "exactCurrent": 832.5,
+                        "old": "$925",
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $8,668 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {
+                    "secretPrice": {
+                        "dealText": "Save more with Secret Prices"
+                    },
+                    "priceReasoning": "DRR-443"
+                },
+                "messaging": {},
+                "badging": {
+                    "hotelBadge": {
+                        "type": "vipBasic",
+                        "label": "VIP"
+                    }
+                },
+                "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                "coordinate": {
+                    "lat": 34.072351,
+                    "lon": -118.395407
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 40442,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/50000/40500/40442/f772040e_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 328315,
+                "name": "JW Marriott Los Angeles L.A. LIVE",
+                "starRating": 4.5,
+                "urls": {},
+                "address": {
+                    "streetAddress": "900 W Olympic Blvd",
+                    "extendedAddress": "",
+                    "locality": "Los Angeles",
+                    "postalCode": "90015",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.5,
+                    "rating": "4.5",
+                    "total": 1055,
+                    "scale": 5,
+                    "badge": "superb",
+                    "badgeText": "Superb"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "2.2 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "0.8 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$768",
+                        "exactCurrent": 767.89,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $8,294 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Downtown Los Angeles",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|TESCO",
+                "coordinate": {
+                    "lat": 34.045683,
+                    "lon": -118.266473
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 2877393,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/3000000/2880000/2877400/2877393/f4558191_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 174265760,
+                "name": "AKA Beverly Hills",
+                "starRating": 4.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "155 N Crescent Dr",
+                    "extendedAddress": "",
+                    "locality": "Beverly Hills",
+                    "postalCode": "90210",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.3,
+                    "rating": "4.3",
+                    "total": 4,
+                    "scale": 5,
+                    "badge": "fabulous",
+                    "badgeText": "Fabulous"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "5.5 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "8.2 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$730",
+                        "exactCurrent": 730.0,
+                        "info": "nightly price per unit",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $7,884 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": true
+                    },
+                    "type": "HC"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "3 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "showFrequentlyAskedQuestionsenUS",
+                "coordinate": {
+                    "lat": 34.067992,
+                    "lon": -118.396656
+                },
+                "roomsLeft": 3,
+                "providerType": "LOCAL",
+                "supplierHotelId": 5414555,
+                "vrBadge": "Condo Hotel",
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/6000000/5420000/5414600/5414555/8dbd41ba_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 105304,
+                "name": "Fairmont Century Plaza",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "2025 Avenue Of The Stars",
+                    "extendedAddress": "",
+                    "locality": "Los Angeles",
+                    "postalCode": "90067",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.6,
+                    "rating": "4.6",
+                    "total": 21,
+                    "scale": 5,
+                    "badge": "superb",
+                    "badgeText": "Superb"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "6.6 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "9.2 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$670",
+                        "exactCurrent": 669.58,
+                        "old": "$893",
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $7,002 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Century City",
+                "deals": {
+                    "specialDeal": {
+                        "dealText": "Save 25%"
+                    },
+                    "priceReasoning": "DRR-446"
+                },
+                "messaging": {},
+                "badging": {},
+                "pimmsAttributes": "newhotel|DoubleStamps",
+                "coordinate": {
+                    "lat": 34.058009,
+                    "lon": -118.415719
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 12670,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/20000/12700/12670/83cf89e0_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 113177,
+                "name": "Los Angeles Marriott Burbank Airport",
+                "starRating": 4.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "2500 N Hollywood Way",
+                    "extendedAddress": "",
+                    "locality": "Burbank",
+                    "postalCode": "91505",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.2,
+                    "rating": "4.2",
+                    "total": 1204,
+                    "scale": 5,
+                    "badge": "very-good",
+                    "badgeText": "Very Good"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "9.6 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "11 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$635",
+                        "exactCurrent": 635.28,
+                        "old": "$644",
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $6,358 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Burbank",
+                "deals": {
+                    "specialDeal": {
+                        "dealText": "Tonight only: save 12% (on select nights)"
+                    },
+                    "priceReasoning": "DRR-439"
+                },
+                "messaging": {},
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|MESOTESTUS|TESCO",
+                "coordinate": {
+                    "lat": 34.19395,
+                    "lon": -118.348222
+                },
+                "providerType": "LOCAL",
+                "supplierHotelId": 5842,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/10000/5900/5842/61d96554_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 112093,
+                "name": "The London West Hollywood at Beverly Hills",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "1020 N San Vicente Blvd",
+                    "extendedAddress": "",
+                    "locality": "West Hollywood",
+                    "postalCode": "90069",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.6,
+                    "rating": "4.6",
+                    "total": 1009,
+                    "scale": 5,
+                    "badge": "superb",
+                    "badgeText": "Superb"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "5.3 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "8.0 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$571",
+                        "exactCurrent": 571.22,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $6,261 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": false,
+                        "noCCRequired": false
+                    },
+                    "type": "EC"
+                },
+                "neighbourhood": "Norma Triangle",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {
+                    "hotelBadge": {
+                        "type": "vipBasic",
+                        "label": "VIP"
+                    }
+                },
+                "pimmsAttributes": "DoubleStamps|D13|TESCO",
+                "coordinate": {
+                    "lat": 34.090041,
+                    "lon": -118.385544
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 21097,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/30000/21100/21097/227e9365_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 112901,
+                "name": "The Beverly Hilton",
+                "starRating": 4.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "9876 Wilshire Blvd",
+                    "extendedAddress": "",
+                    "locality": "Beverly Hills",
+                    "postalCode": "90210",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.2,
+                    "rating": "4.2",
+                    "total": 1031,
+                    "scale": 5,
+                    "badge": "very-good",
+                    "badgeText": "Very Good"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "6.5 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "9.2 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$555",
+                        "exactCurrent": 554.71,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $5,773 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Beverly Hills",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "2 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|MESOTESTUS|TESCO",
+                "coordinate": {
+                    "lat": 34.065816,
+                    "lon": -118.413933
+                },
+                "roomsLeft": 2,
+                "providerType": "LOCAL",
+                "supplierHotelId": 7962,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/1000000/10000/8000/7962/d1a235a6_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 1105129856,
+                "name": "Silver Lake Pool & Inn",
+                "starRating": 4.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "4141 Santa Monica Boulevard",
+                    "extendedAddress": "",
+                    "locality": "Los Angeles",
+                    "postalCode": "90026",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.6,
+                    "rating": "4.6",
+                    "total": 163,
+                    "scale": 5,
+                    "badge": "superb",
+                    "badgeText": "Superb"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "2.4 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "3.3 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$555",
+                        "exactCurrent": 554.5,
+                        "old": "$616",
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $5,799 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "Sunset Junction",
+                "deals": {
+                    "secretPrice": {
+                        "dealText": "Save more with Secret Prices"
+                    },
+                    "priceReasoning": "DRR-443"
+                },
+                "messaging": {
+                    "scarcity": "1 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "DoubleStamps|D13",
+                "coordinate": {
+                    "lat": 34.0919,
+                    "lon": -118.283
+                },
+                "roomsLeft": 1,
+                "providerType": "LOCAL",
+                "supplierHotelId": 34504058,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/35000000/34510000/34504100/34504058/72fa778d_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            },
+            {
+                "id": 1855769152,
+                "name": "Pendry West Hollywood",
+                "starRating": 5.0,
+                "urls": {},
+                "address": {
+                    "streetAddress": "8430 Sunset Boulevard",
+                    "extendedAddress": "",
+                    "locality": "West Hollywood",
+                    "postalCode": "90069",
+                    "region": "CA",
+                    "countryName": "United States",
+                    "countryCode": "us",
+                    "obfuscate": false
+                },
+                "welcomeRewards": {
+                    "collect": true
+                },
+                "guestReviews": {
+                    "unformattedRating": 4.6,
+                    "rating": "4.6",
+                    "total": 113,
+                    "scale": 5,
+                    "badge": "superb",
+                    "badgeText": "Superb"
+                },
+                "landmarks": [
+                    {
+                        "label": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA",
+                        "distance": "4.8 miles"
+                    },
+                    {
+                        "label": "Los Angeles",
+                        "distance": "7.4 miles"
+                    }
+                ],
+                "geoBullets": [],
+                "ratePlan": {
+                    "price": {
+                        "current": "$545",
+                        "exactCurrent": 545.0,
+                        "info": "nightly price per room",
+                        "additionalInfo": "This is the average nightly price for your dates.",
+                        "fullyBundledPricePerStay": "total $5,900 for 9&nbsp;nights"
+                    },
+                    "features": {
+                        "freeCancellation": false,
+                        "paymentPreference": true,
+                        "noCCRequired": false
+                    },
+                    "type": "Dual"
+                },
+                "neighbourhood": "West Hollywood",
+                "deals": {},
+                "messaging": {
+                    "scarcity": "3 left on our app"
+                },
+                "badging": {},
+                "pimmsAttributes": "D13",
+                "coordinate": {
+                    "lat": 34.094907,
+                    "lon": -118.373491
+                },
+                "roomsLeft": 3,
+                "providerType": "LOCAL",
+                "supplierHotelId": 57961536,
+                "isAlternative": false,
+                "optimizedThumbUrls": {
+                    "srpDesktop": "https://exp.cdn-hotels.com/hotels/58000000/57970000/57961600/57961536/199c8821_z.jpg?impolicy=fcrop&w=250&h=140&q=high"
+                }
+            }
+        ],
+        "pagination": {
+            "currentPage": 1,
+            "pageGroup": "EXPEDIA_IN_POLYGON",
+            "nextPageStartIndex": 25,
+            "nextPageNumber": 2,
+            "nextPageGroup": "EXPEDIA_IN_POLYGON"
+        }
+    },
+    "sortResults": {
+        "options": [
+            {
+                "label": "Featured",
+                "itemMeta": "popular",
+                "choices": [
+                    {
+                        "label": "Featured",
+                        "value": "BEST_SELLER",
+                        "selected": false
+                    }
+                ],
+                "enhancedChoices": []
+            },
+            {
+                "label": "Star rating",
+                "itemMeta": "star",
+                "choices": [
+                    {
+                        "label": "Stars (high to low)",
+                        "value": "STAR_RATING_HIGHEST_FIRST",
+                        "selected": false
+                    },
+                    {
+                        "label": "Stars (low to high)",
+                        "value": "STAR_RATING_LOWEST_FIRST",
+                        "selected": false
+                    }
+                ],
+                "enhancedChoices": []
+            },
+            {
+                "label": "Distance",
+                "itemMeta": "distance",
+                "choices": [
+                    {
+                        "label": "Distance",
+                        "value": "DISTANCE_FROM_LANDMARK",
+                        "selected": false
+                    }
+                ],
+                "enhancedChoices": [
+                    {
+                        "label": "Landmarks",
+                        "itemMeta": "landmarks",
+                        "choices": [
+                            {
+                                "label": "Alhambra",
+                                "id": 1410227.0
+                            },
+                            {
+                                "label": "Bell Gardens",
+                                "id": 1470258.0
+                            },
+                            {
+                                "label": "Beverly Hills",
+                                "id": 1448724.0
+                            },
+                            {
+                                "label": "Burbank",
+                                "id": 1530145.0
+                            },
+                            {
+                                "label": "Crypto.com Arena",
+                                "id": 1632945.0
+                            },
+                            {
+                                "label": "Culver City",
+                                "id": 1524384.0
+                            },
+                            {
+                                "label": "Glendale",
+                                "id": 1506821.0
+                            },
+                            {
+                                "label": "Huntington Park",
+                                "id": 1403319.0
+                            },
+                            {
+                                "label": "Inglewood",
+                                "id": 1462889.0
+                            },
+                            {
+                                "label": "Los Angeles",
+                                "id": 1439028.0
+                            },
+                            {
+                                "label": "Maywood",
+                                "id": 1408671.0
+                            },
+                            {
+                                "label": "Monterey Park",
+                                "id": 1523420.0
+                            },
+                            {
+                                "label": "North Hollywood",
+                                "id": 1427326.0
+                            },
+                            {
+                                "label": "Playa Vista",
+                                "id": 1813028.0
+                            },
+                            {
+                                "label": "South Pasadena",
+                                "id": 1477912.0
+                            },
+                            {
+                                "label": "Studio City",
+                                "id": 1402588.0
+                            },
+                            {
+                                "label": "Universal City",
+                                "id": 1411831.0
+                            },
+                            {
+                                "label": "Universal Studios Hollywood",
+                                "id": 10233442.0
+                            },
+                            {
+                                "label": "Valley Village",
+                                "id": 1756159.0
+                            },
+                            {
+                                "label": "West Hollywood",
+                                "id": 1487060.0
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Train stations",
+                        "itemMeta": "stations",
+                        "choices": [
+                            {
+                                "label": "7th Street - Metro Center Station",
+                                "id": 1741493.0
+                            },
+                            {
+                                "label": "Bob Hope Airport Station",
+                                "id": 1741526.0
+                            },
+                            {
+                                "label": "Civic Center Station",
+                                "id": 1764682.0
+                            },
+                            {
+                                "label": "Downtown Burbank Station",
+                                "id": 1741355.0
+                            },
+                            {
+                                "label": "Glendale Transportation Center",
+                                "id": 1734905.0
+                            },
+                            {
+                                "label": "Hollywood - Highland Station",
+                                "id": 1741510.0
+                            },
+                            {
+                                "label": "Hollywood - Vine Station",
+                                "id": 1741509.0
+                            },
+                            {
+                                "label": "Hollywood - Western Station",
+                                "id": 1741508.0
+                            },
+                            {
+                                "label": "Los Angeles Union Station",
+                                "id": 1708465.0
+                            },
+                            {
+                                "label": "North Hollywood Station",
+                                "id": 1741525.0
+                            },
+                            {
+                                "label": "Pershing Square Station",
+                                "id": 1741973.0
+                            },
+                            {
+                                "label": "Union Station",
+                                "id": 1741491.0
+                            },
+                            {
+                                "label": "Universal City Station",
+                                "id": 1741511.0
+                            },
+                            {
+                                "label": "Vermont - Beverly Station",
+                                "id": 1741502.0
+                            },
+                            {
+                                "label": "Vermont - Santa Monica Station",
+                                "id": 1741503.0
+                            },
+                            {
+                                "label": "Vermont - Sunset Station",
+                                "id": 1741504.0
+                            },
+                            {
+                                "label": "Westlake - MacArthur Park Station",
+                                "id": 1741501.0
+                            },
+                            {
+                                "label": "Wilshire - Normandie Station",
+                                "id": 1741505.0
+                            },
+                            {
+                                "label": "Wilshire - Vermont Station",
+                                "id": 1741506.0
+                            },
+                            {
+                                "label": "Wilshire - Western Station",
+                                "id": 1741507.0
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Airports",
+                        "itemMeta": "airports",
+                        "choices": [
+                            {
+                                "label": "Burbank, CA (BUR-Hollywood Burbank)",
+                                "id": 1535442.0
+                            },
+                            {
+                                "label": "Hawthorne, CA (HHR-Hawthorne Municipal)",
+                                "id": 1648542.0
+                            },
+                            {
+                                "label": "Los Angeles Intl. (LAX)",
+                                "id": 1475024.0
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Guest rating",
+                "itemMeta": "rating",
+                "choices": [
+                    {
+                        "label": "Guest rating",
+                        "value": "GUEST_RATING",
+                        "selected": false
+                    }
+                ],
+                "enhancedChoices": []
+            },
+            {
+                "label": "Price",
+                "itemMeta": "price",
+                "selectedChoiceLabel": "Price (high to low)",
+                "choices": [
+                    {
+                        "label": "Price (high to low)",
+                        "value": "PRICE_HIGHEST_FIRST",
+                        "selected": true
+                    },
+                    {
+                        "label": "Price (low to high)",
+                        "value": "PRICE",
+                        "selected": false
+                    }
+                ],
+                "enhancedChoices": []
+            }
+        ]
+    },
+    "filters": {
+        "applied": true,
+        "name": {
+            "item": {
+                "value": ""
+            },
+            "autosuggest": {
+                "additionalUrlParams": {
+                    "resolved-location": "GEO_LOCATION:3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA|34.06089401245117|-118.30043029785156:GEOCODE:UNKNOWN",
+                    "q-destination": "3470 Wilshire Blvd #100, Los Angeles, CA 90010, USA"
+                }
+            }
+        },
+        "starRating": {
+            "applied": false,
+            "items": [
+                {
+                    "value": 5
+                },
+                {
+                    "value": 4
+                },
+                {
+                    "value": 3
+                },
+                {
+                    "value": 2
+                },
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "guestRating": {
+            "range": {
+                "min": {
+                    "defaultValue": 0.0
+                },
+                "max": {
+                    "defaultValue": 5.0
+                }
+            }
+        },
+        "landmarks": {
+            "selectedOrder": [],
+            "items": [
+                {
+                    "label": "Los Angeles",
+                    "value": "1439028"
+                },
+                {
+                    "label": "Universal City",
+                    "value": "1411831"
+                },
+                {
+                    "label": "West Hollywood",
+                    "value": "1487060"
+                },
+                {
+                    "label": "Beverly Hills",
+                    "value": "1448724"
+                },
+                {
+                    "label": "Burbank",
+                    "value": "1530145"
+                },
+                {
+                    "label": "Inglewood",
+                    "value": "1462889"
+                },
+                {
+                    "label": "Glendale",
+                    "value": "1506821"
+                },
+                {
+                    "label": "Culver City",
+                    "value": "1524384"
+                },
+                {
+                    "label": "North Hollywood",
+                    "value": "1427326"
+                },
+                {
+                    "label": "Studio City",
+                    "value": "1402588"
+                },
+                {
+                    "label": "Monterey Park",
+                    "value": "1523420"
+                },
+                {
+                    "label": "Alhambra",
+                    "value": "1410227"
+                },
+                {
+                    "label": "Bell Gardens",
+                    "value": "1470258"
+                },
+                {
+                    "label": "Huntington Park",
+                    "value": "1403319"
+                },
+                {
+                    "label": "South Pasadena",
+                    "value": "1477912"
+                },
+                {
+                    "label": "Maywood",
+                    "value": "1408671"
+                },
+                {
+                    "label": "Playa Vista",
+                    "value": "1813028"
+                },
+                {
+                    "label": "Valley Village",
+                    "value": "1756159"
+                },
+                {
+                    "label": "Universal Studios Hollywood",
+                    "value": "10233442"
+                },
+                {
+                    "label": "Los Angeles Intl. (LAX)",
+                    "value": "1475024"
+                }
+            ],
+            "distance": []
+        },
+        "neighbourhood": {
+            "applied": false,
+            "items": [
+                {
+                    "label": "Downtown Los Angeles",
+                    "value": "1648095"
+                },
+                {
+                    "label": "Hollywood",
+                    "value": "1400277"
+                },
+                {
+                    "label": "Commerce",
+                    "value": "1401131"
+                },
+                {
+                    "label": "Bell",
+                    "value": "1498552"
+                },
+                {
+                    "label": "Silver Lake",
+                    "value": "10517929"
+                },
+                {
+                    "label": "Wilshire",
+                    "value": "1806919"
+                },
+                {
+                    "label": "Los Feliz",
+                    "value": "11047300"
+                },
+                {
+                    "label": "Downtown Burbank",
+                    "value": "10780034"
+                },
+                {
+                    "label": "Hollywood Hills",
+                    "value": "11047420"
+                },
+                {
+                    "label": "Eagle Rock",
+                    "value": "11047338"
+                },
+                {
+                    "label": "Westchester",
+                    "value": "11047336"
+                },
+                {
+                    "label": "Fairfax District",
+                    "value": "1708454"
+                },
+                {
+                    "label": "Arts District",
+                    "value": "10774425"
+                },
+                {
+                    "label": "Koreatown",
+                    "value": "1708456"
+                },
+                {
+                    "label": "West Los Angeles",
+                    "value": "1691562"
+                },
+                {
+                    "label": "Century City",
+                    "value": "1726077"
+                },
+                {
+                    "label": "Westwood",
+                    "value": "1708459"
+                },
+                {
+                    "label": "Little Tokyo",
+                    "value": "1708457"
+                },
+                {
+                    "label": "Chinatown",
+                    "value": "1691704"
+                },
+                {
+                    "label": "Boyle Heights",
+                    "value": "10819105"
+                },
+                {
+                    "label": "Fashion District",
+                    "value": "1708464"
+                },
+                {
+                    "label": "Bel Air",
+                    "value": "1691537"
+                },
+                {
+                    "label": "Lennox",
+                    "value": "1691561"
+                },
+                {
+                    "label": "Bunker Hill",
+                    "value": "10790664"
+                },
+                {
+                    "label": "Historic Core",
+                    "value": "1708455"
+                },
+                {
+                    "label": "Central Alameda",
+                    "value": "12533617"
+                },
+                {
+                    "label": "NoHo Arts District",
+                    "value": "12545101"
+                },
+                {
+                    "label": "City West",
+                    "value": "12502995"
+                },
+                {
+                    "label": "McManus",
+                    "value": "12548468"
+                },
+                {
+                    "label": "Magnolia Park",
+                    "value": "12512077"
+                },
+                {
+                    "label": "Grandview",
+                    "value": "12503321"
+                },
+                {
+                    "label": "Hollywood Hills West",
+                    "value": "12507933"
+                },
+                {
+                    "label": "Glenwood",
+                    "value": "12508050"
+                },
+                {
+                    "label": "Financial District",
+                    "value": "12512806"
+                },
+                {
+                    "label": "Greater Wilshire - Hancock Park",
+                    "value": "12521974"
+                },
+                {
+                    "label": "Rossmoyne",
+                    "value": "12502945"
+                },
+                {
+                    "label": "Del Rey",
+                    "value": "12521339"
+                },
+                {
+                    "label": "Westlake",
+                    "value": "12512686"
+                },
+                {
+                    "label": "Fox Hills",
+                    "value": "12508011"
+                },
+                {
+                    "label": "Pico - Robertson",
+                    "value": "12527735"
+                },
+                {
+                    "label": "Carthay Circle",
+                    "value": "12502843"
+                },
+                {
+                    "label": "La Brea",
+                    "value": "12512624"
+                },
+                {
+                    "label": "Tri-West",
+                    "value": "12507577"
+                },
+                {
+                    "label": "East Hollywood",
+                    "value": "12531367"
+                },
+                {
+                    "label": "The Flats",
+                    "value": "12521307"
+                },
+                {
+                    "label": "Leimert Park",
+                    "value": "12526262"
+                },
+                {
+                    "label": "Culver - West",
+                    "value": "12526528"
+                },
+                {
+                    "label": "Somerset",
+                    "value": "12507991"
+                },
+                {
+                    "label": "El Sereno",
+                    "value": "12523680"
+                },
+                {
+                    "label": "Downtown Culver City",
+                    "value": "12547376"
+                },
+                {
+                    "label": "University Park",
+                    "value": "12512101"
+                },
+                {
+                    "label": "Walnut Park",
+                    "value": "12487851"
+                },
+                {
+                    "label": "Hollywood Heights",
+                    "value": "12529244"
+                },
+                {
+                    "label": "Norma Triangle",
+                    "value": "12536767"
+                },
+                {
+                    "label": "Melrose",
+                    "value": "12536333"
+                },
+                {
+                    "label": "Lucerne - Higuera",
+                    "value": "12550180"
+                },
+                {
+                    "label": "Lincoln Heights",
+                    "value": "12505300"
+                },
+                {
+                    "label": "Mid-Wilshire",
+                    "value": "12527731"
+                },
+                {
+                    "label": "Moorpark",
+                    "value": "12517258"
+                },
+                {
+                    "label": "Citrus Grove",
+                    "value": "12512287"
+                },
+                {
+                    "label": "Little Armenia",
+                    "value": "12533609"
+                },
+                {
+                    "label": "Rampart Village",
+                    "value": "12521142"
+                },
+                {
+                    "label": "Blanco - Culver Crest",
+                    "value": "12529535"
+                },
+                {
+                    "label": "Beverly Glen",
+                    "value": "12513648"
+                },
+                {
+                    "label": "Angelino Heights",
+                    "value": "12526265"
+                },
+                {
+                    "label": "Westlake South",
+                    "value": "12502741"
+                },
+                {
+                    "label": "Sawtelle",
+                    "value": "12523666"
+                },
+                {
+                    "label": "Verdugo Viejo",
+                    "value": "12526317"
+                },
+                {
+                    "label": "Riverside Rancho",
+                    "value": "12507674"
+                },
+                {
+                    "label": "West Athens",
+                    "value": "12531991"
+                },
+                {
+                    "label": "Mid City",
+                    "value": "12523653"
+                },
+                {
+                    "label": "The Bird Streets",
+                    "value": "12517462"
+                },
+                {
+                    "label": "Arlington Heights",
+                    "value": "12522974"
+                },
+                {
+                    "label": "Pico-Union",
+                    "value": "12512926"
+                },
+                {
+                    "label": "Thai Town",
+                    "value": "12533434"
+                },
+                {
+                    "label": "Wilshire Center",
+                    "value": "12521424"
+                },
+                {
+                    "label": "Sunset Park",
+                    "value": "12521352"
+                },
+                {
+                    "label": "Clarkdale",
+                    "value": "12548419"
+                },
+                {
+                    "label": "Sunset Junction",
+                    "value": "12512194"
+                },
+                {
+                    "label": "Historic Filipinotown",
+                    "value": "12535921"
+                },
+                {
+                    "label": "Pacific - Edison",
+                    "value": "12521267"
+                },
+                {
+                    "label": "Florence-Graham",
+                    "value": "12501385"
+                },
+                {
+                    "label": "Larchmont",
+                    "value": "12529160"
+                },
+                {
+                    "label": "Beverly Grove",
+                    "value": "12504967"
+                },
+                {
+                    "label": "Downtown Glendale",
+                    "value": "12517260"
+                },
+                {
+                    "label": "Park Mesa Heights",
+                    "value": "12542145"
+                },
+                {
+                    "label": "MacArthur Park",
+                    "value": "641771271248510976"
+                }
+            ]
+        },
+        "accommodationType": {
+            "applied": false,
+            "items": [
+                {
+                    "label": "Apart-hotels",
+                    "value": "20"
+                },
+                {
+                    "label": "Apartments",
+                    "value": "15"
+                },
+                {
+                    "label": "B&Bs",
+                    "value": "5"
+                },
+                {
+                    "label": "Cottages",
+                    "value": "11"
+                },
+                {
+                    "label": "Guest houses",
+                    "value": "30"
+                },
+                {
+                    "label": "Hostels",
+                    "value": "12"
+                },
+                {
+                    "label": "Hotels",
+                    "value": "1"
+                },
+                {
+                    "label": "Inns",
+                    "value": "8"
+                },
+                {
+                    "label": "Motels",
+                    "value": "7"
+                },
+                {
+                    "label": "Resorts",
+                    "value": "3"
+                },
+                {
+                    "label": "Vacation homes",
+                    "value": "4"
+                },
+                {
+                    "label": "Villas",
+                    "value": "14"
+                }
+            ]
+        },
+        "facilities": {
+            "applied": false,
+            "items": [
+                {
+                    "label": "24-hour front desk",
+                    "value": "2063"
+                },
+                {
+                    "label": "Airport transfers",
+                    "value": "513"
+                },
+                {
+                    "label": "Bar",
+                    "value": "515"
+                },
+                {
+                    "label": "Bathtub in room",
+                    "value": "517"
+                },
+                {
+                    "label": "Breakfast included",
+                    "value": "2048"
+                },
+                {
+                    "label": "Business facilities",
+                    "value": "519"
+                },
+                {
+                    "label": "Casino",
+                    "value": "2112"
+                },
+                {
+                    "label": "Childcare",
+                    "value": "521"
+                },
+                {
+                    "label": "Connecting rooms available",
+                    "value": "523"
+                },
+                {
+                    "label": "Cribs available",
+                    "value": "525"
+                },
+                {
+                    "label": "Electric vehicle charging point",
+                    "value": "1073743315"
+                },
+                {
+                    "label": "Gym",
+                    "value": "2"
+                },
+                {
+                    "label": "Internet Access",
+                    "value": "8"
+                },
+                {
+                    "label": "Kitchen",
+                    "value": "32"
+                },
+                {
+                    "label": "Meeting Facilities",
+                    "value": "1"
+                },
+                {
+                    "label": "Non-smoking",
+                    "value": "529"
+                },
+                {
+                    "label": "Parking",
+                    "value": "134234112"
+                },
+                {
+                    "label": "Pet Friendly",
+                    "value": "64"
+                },
+                {
+                    "label": "Pool",
+                    "value": "128"
+                },
+                {
+                    "label": "Restaurant",
+                    "value": "256"
+                },
+                {
+                    "label": "Ski storage",
+                    "value": "533"
+                },
+                {
+                    "label": "Smoking areas",
+                    "value": "537"
+                },
+                {
+                    "label": "Spa",
+                    "value": "539"
+                },
+                {
+                    "label": "WiFi included",
+                    "value": "527"
+                }
+            ]
+        },
+        "accessibility": {
+            "applied": false,
+            "items": [
+                {
+                    "label": "Accessibility equipment for the deaf",
+                    "value": "2097152"
+                },
+                {
+                    "label": "Accessible bathroom",
+                    "value": "131072"
+                },
+                {
+                    "label": "Accessible parking",
+                    "value": "524288"
+                },
+                {
+                    "label": "Accessible path of travel",
+                    "value": "65536"
+                },
+                {
+                    "label": "Braille or raised signage",
+                    "value": "4194304"
+                },
+                {
+                    "label": "In-room accessibility",
+                    "value": "1048576"
+                },
+                {
+                    "label": "Roll-in shower",
+                    "value": "262144"
+                },
+                {
+                    "label": "Wheelchair accessible rooms",
+                    "value": "541"
+                }
+            ]
+        },
+        "themesAndTypes": {
+            "applied": false,
+            "items": [
+                {
+                    "label": "Adventure",
+                    "value": "18"
+                },
+                {
+                    "label": "Beach",
+                    "value": "6"
+                },
+                {
+                    "label": "Boutique",
+                    "value": "4"
+                },
+                {
+                    "label": "Business",
+                    "value": "14"
+                },
+                {
+                    "label": "Casino",
+                    "value": "8"
+                },
+                {
+                    "label": "Family-friendly",
+                    "value": "25"
+                },
+                {
+                    "label": "Golf",
+                    "value": "26"
+                },
+                {
+                    "label": "Historic",
+                    "value": "2"
+                },
+                {
+                    "label": "LGBTQ Welcoming",
+                    "value": "21"
+                },
+                {
+                    "label": "Luxury",
+                    "value": "15"
+                },
+                {
+                    "label": "Shopping",
+                    "value": "17"
+                },
+                {
+                    "label": "Spa Hotel",
+                    "value": "27"
+                },
+                {
+                    "label": "Winery/Vineyard",
+                    "value": "19"
+                }
+            ]
+        },
+        "price": {
+            "label": "Nightly Price",
+            "range": {
+                "min": {
+                    "defaultValue": 0,
+                    "value": 0
+                },
+                "max": {
+                    "defaultValue": 500
+                },
+                "increments": 5
+            },
+            "multiplier": 1,
+            "applied": true
+        },
+        "paymentPreference": {
+            "items": [
+                {
+                    "label": "Fully refundable",
+                    "value": "fc"
+                },
+                {
+                    "label": "Book without card details",
+                    "value": "ncc"
+                },
+                {
+                    "label": "Pay with Hotels.com gift card",
+                    "value": "gc"
+                }
+            ]
+        },
+        "welcomeRewards": {
+            "label": "Hotels.com\u00ae Rewards",
+            "items": [
+                {
+                    "label": "Collect stamps",
+                    "value": "collect"
+                },
+                {
+                    "label": "Redeem reward* nights",
+                    "value": "redeem"
+                }
+            ]
+        }
+    },
+    "pointOfSale": {
+        "currency": {
+            "code": "USD",
+            "symbol": "$",
+            "separators": ",.",
+            "format": "${0}"
+        }
+    }
+}
