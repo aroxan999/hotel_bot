@@ -6,3 +6,5 @@ def lowprce(message):
     msg = bot.send_message(message.chat.id, f"{message.chat.first_name} введите город")
     bot.register_next_step_handler(msg, query)
 
+
+

@@ -399,3 +399,4 @@ def help(message):
 @bot.message_handler(commands="history")
 def history(message):
     bot.send_document(message.chat.id, document=open("history.csv", "rb"))
+
